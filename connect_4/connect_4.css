@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+div{
+    border: 1px solid black;
+}
+
+h2 {
+    margin: 10px;
+}
+
+#resetBtn {
+    font-size: 20px;
+    margin: 3px;
+    padding: 5px;
+}
